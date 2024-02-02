@@ -10,7 +10,7 @@ for (let i = 0; i < 10; i++){
   number = parseInt(prompt('Inserisci un numero'));
   numbers.push(number);
 }
-console.log(numbers);
+// console.log(numbers);
 
 // variabile per la somma
 let sumNumbers = 0;
