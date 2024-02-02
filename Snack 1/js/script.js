@@ -2,7 +2,7 @@
 // - L’utente inserisce due parole in successione, con due prompt.
 // - Il software stampa prima la parola più corta, poi la parola più lunga.
 
-// dasdsasdprima parola inserita dall'utente
+// prima parola inserita dall'utente
 const word1 = prompt("Scrivi la prima parola");
 
 // seconda parola inserita dall'utente
